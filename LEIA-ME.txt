@@ -1,0 +1,20 @@
+A VIDA EM ESCALA — PÁGINA DO LIVRO
+
+COMO ABRIR
+1. Extraia o ZIP (não abra o HTML de dentro do ZIP).
+2. No VS Code, escolha Arquivo > Abrir Pasta e selecione a pasta a-vida-em-escala.
+3. Abra index.html no seu navegador com um duplo clique pelo explorador de arquivos.
+   Opcional: use a extensão Live Server do VS Code e escolha Open with Live Server.
+
+ARQUIVOS
+index.html: textos e estrutura da página.
+style.css: cores, fontes, tamanhos e adaptação para celular.
+script.js: botões interativos da seção de escalas.
+
+PERSONALIZAÇÃO
+Edite os textos em index.html e salve. Atualize o navegador para visualizar.
+A composição gráfica do livro é ilustrativa, feita em CSS; não é a capa original.
+Os textos dos capítulos são sínteses de apresentação baseadas no PDF fornecido.
+A página funciona sem instalação, internet, bibliotecas ou servidor.
+Não há formulário, loja ou download do livro. O PDF completo não está incluído.
+A linguagem de interação é JavaScript, diferente de Java.
